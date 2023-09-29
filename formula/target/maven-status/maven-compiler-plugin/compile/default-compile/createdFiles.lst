@@ -1,0 +1,7 @@
+com\insurance\formula\FormulaApplication.class
+com\insurance\formula\model.class
+com\insurance\formula\contract\businessLogicInterface.class
+com\insurance\formula\contract\repositoryInterface.class
+com\insurance\formula\repository\repository.class
+com\insurance\formula\businesslogic\logic.class
+com\insurance\formula\controller\controll.class
